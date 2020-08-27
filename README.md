@@ -1,5 +1,5 @@
 # CalculatingDistances
-Calcula distância euclidiana e distancia de manhattan de uma base de dados.
+Calcula distância euclidiana e distância de manhattan de uma base de dados.
 
 Para executar o código é necessário informar os argumentos de acordo com a lista abaixo:
  - -inputFile - arquivo que será processado. É importante que ele não tenha espaços no nome, pois o código entenderá como um novo argumento e dará erro. Além disso, o arquivo deve conter apenas valores decimais
